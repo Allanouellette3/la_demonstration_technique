@@ -30,5 +30,16 @@ Pour des décors ou des personnages fictifs, pour les photographes, les youtuber
 ## Comment reproduire la technique ?
 Déjà, il faut le fond (sur Amazon j'en ai trouvé un a 30$) et première pro comme logiciel 
 tuto: https://www.youtube.com/watch?v=2eGSr-EC-4s 
--La Video Tout Simplement
+ -La Video Tout Simplement
+ 
+ ## les subtilitées de la technique (comment ça fonctionne?) 
+ Avec un film chimique (pellicule de cinéma), le procédé, qui s'appelait traditionnellement matte ou matting, se déroule de la manière suivante :
+
+1. on filme séparément un objet sur fond bleu/vert (blue/green screen) et un décor ;
+2. à partir de l'image de l'objet, on transforme le bleu du fond en un masque noir (chroma key, on a ainsi la silhouette de l'objet en transparent sur fond noir), ainsi qu'un masque complémentaire (on a ainsi la silhouette de l'objet en noir sur fond transparent, technique dite du « cache/contre-cache ») ;
+3. le premier masque est appliqué à l'objet (on a donc l'objet sur fond noir), le second est appliqué au décor (on a donc la silhouette de l'objet en noir sur le décor) ;
+4. cette pellicule est utilisée pour impressionner le négatif ; deux images successives (donc le décor sans l'objet et l'objet sans le décor) impressionnent la même image du négatif.
+
+Autres ressources:
+https://www.lemonde.fr/culture/video/2013/03/07/le-fond-vert-grand-pere-des-effets-speciaux-ne-en-1940_1843938_3246.html
 
